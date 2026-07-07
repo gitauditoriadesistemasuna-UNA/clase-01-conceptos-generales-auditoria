@@ -1,4 +1,4 @@
-\# Contenidos
+# Contenidos
 
 1. Conceptos básicos de Auditoría.
 2. Principios y lineamientos del ejercicio de la Auditoría.
