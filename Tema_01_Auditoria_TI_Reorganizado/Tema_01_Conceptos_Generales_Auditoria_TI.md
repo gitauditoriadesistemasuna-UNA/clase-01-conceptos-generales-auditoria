@@ -136,10 +136,10 @@ A lo largo del estudio de la auditoría de Tecnologías de Información se emple
 
 <p align="center"><img src="./imagenes/07_alcance_auditoria_ti.png" alt="Ilustración 6. Alcance de la Auditoría de TI" width="450"></p>
 
+El alcance de una auditoría de TI define los procesos, servicios, activos tecnológicos, sistemas de información y controles que serán objeto de evaluación durante el trabajo de auditoría. Este no es uniforme para todas las organizaciones, sino que se establece considerando los objetivos de la auditoría, los riesgos identificados, los recursos disponibles y las necesidades de la organización. Un alcance claramente definido permite delimitar qué será evaluado y orientar adecuadamente el proceso de obtención de evidencia.
 
 *Ilustración 6. Áreas que pueden formar parte del alcance de una auditoría de TI.*
 
-El alcance de una auditoría de TI define los procesos, servicios, activos tecnológicos, sistemas de información y controles que serán objeto de evaluación durante el trabajo de auditoría. Este no es uniforme para todas las organizaciones, sino que se establece considerando los objetivos de la auditoría, los riesgos identificados, los recursos disponibles y las necesidades de la organización. Un alcance claramente definido permite delimitar qué será evaluado y orientar adecuadamente el proceso de obtención de evidencia.
 
 ### Evolución de la Auditoría
 
