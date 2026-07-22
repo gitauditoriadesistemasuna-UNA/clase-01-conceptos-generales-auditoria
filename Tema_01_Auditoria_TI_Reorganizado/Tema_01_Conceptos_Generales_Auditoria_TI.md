@@ -127,7 +127,7 @@ A lo largo del estudio de la auditoría de Tecnologías de Información se emple
 
 ### Propósito de la Auditoría de TI
 
-<p align="center"><img src="./imagenes/06_proposito_auditoria_ti.png" alt="Ilustración 5. Propósito de la Auditoría de TI width="650"></p>
+<p align="center"><img src="./imagenes/06_proposito_auditoria_ti.png" alt="Ilustración 5. Propósito de la Auditoría de TI width="400"></p>
 
 
 *Ilustración 5. Propósito de la Auditoría de TI.*
