@@ -165,7 +165,11 @@ La auditoría de Tecnologías de Información ha evolucionado conforme lo ha hec
 
 ### En resumen
 
-![Ilustración 9. Síntesis del proceso de Auditoría de TI](./imagenes/10_resumen_auditoria_ti.png)
+<p align="center">
+  <img src="./imagenes/10_resumen_auditoria_ti.png"
+       alt="Síntesis del proceso de Auditoría de TI"
+       width="450">
+</p>
 
 *Ilustración 9. Síntesis del proceso de Auditoría de TI.*
 
