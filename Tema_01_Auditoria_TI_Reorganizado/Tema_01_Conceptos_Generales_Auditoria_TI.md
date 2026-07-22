@@ -134,7 +134,8 @@ A lo largo del estudio de la auditoría de Tecnologías de Información se emple
 
 ### Alcance de la Auditoría de TI
 
-![Ilustración 6. Áreas que pueden formar parte del alcance](./imagenes/07_alcance_auditoria_ti.png)
+<p align="center"><img src="./imagenes/07_alcance_auditoria_ti.png" alt="Ilustración 6. Alcance de la Auditoría de TI" width="450"></p>
+
 
 *Ilustración 6. Áreas que pueden formar parte del alcance de una auditoría de TI.*
 
@@ -158,8 +159,8 @@ La auditoría de Tecnologías de Información ha evolucionado conforme lo ha hec
 
 ### Valor para la organización
 
-![Ilustración 8. Valor de la Auditoría de TI para la organización](./imagenes/09_valor_organizacion.png)
 
+<p align="center"><img src="./imagenes/09_valor_organizacion.png" alt="Ilustración 8. Valor de la Auditoría de TI para la organización" width="450"></p>
 *Ilustración 8. Valor de la Auditoría de TI para la organización.*
 
 ### En resumen
