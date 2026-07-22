@@ -111,7 +111,7 @@ A lo largo del estudio de la auditoría de Tecnologías de Información se emple
 
 
 
-*Ilustración 4. Glosario de Auditoría de TI, parte 2.*
+*Ilustración 4. Glosario de Auditoría de TI*
 
 | Concepto | Idea principal |
 |---|---|
