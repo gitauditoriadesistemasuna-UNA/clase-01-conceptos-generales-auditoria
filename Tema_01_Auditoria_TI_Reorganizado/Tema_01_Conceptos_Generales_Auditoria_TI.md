@@ -89,7 +89,7 @@ Esta definición enfatiza tres características esenciales:
 - independiente;
 - basada en criterios.
 
-![Ilustración 2. Definición de Auditoría de TI](./imagenes/03_definicion_auditoria_ti.png)
+<p align="center"><img src="./imagenes/03_definicion_auditoria_ti.png" alt="Ilustración 2. Definición de Auditoría de TI" width="650"></p>
 
 *Ilustración 2. Definición de Auditoría de TI.*
 
