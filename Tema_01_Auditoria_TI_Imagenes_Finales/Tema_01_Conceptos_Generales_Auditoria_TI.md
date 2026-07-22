@@ -84,27 +84,7 @@ A lo largo del estudio de la auditoría de Tecnologías de Información se emple
 
 ![Glosario de Auditoría de TI, parte 2](./imagenes/05_glosario_parte_2.png)
 
-*Ilustración 5. Glosario de Auditoría de TI, parte 2.*
-Concepto
-Idea principal
-Auditoría de TI
-Evaluación independiente y sistemática de los controles de TI para proporcionar aseguramiento.
-Control
-Medida implementada para reducir un riesgo o aumentar la probabilidad de alcanzar un objetivo.
-Riesgo
-Posibilidad de que una amenaza o vulnerabilidad afecte el logro de los objetivos de la organización.
-Evidencia
-Información suficiente, pertinente y confiable que respalda las conclusiones del auditor.
-Criterio
-Referente contra el cual se evalúa la evidencia (normas, políticas, leyes, marcos de referencia o procedimientos).
-Hallazgo
-Resultado de comparar la evidencia obtenida con los criterios establecidos, identificando conformidades, desviaciones u oportunidades de mejora.
-Recomendación
-Acción propuesta para corregir debilidades, fortalecer los controles o mejorar la gestión de riesgos.
-Aseguramiento
-Opinión profesional independiente sobre si los controles contribuyen al logro de los objetivos organizacionales y a la adecuada gestión de los riesgos.
-Alcance de una auditoría
-Delimitación de los procesos, activos, sistemas, servicios, controles o áreas que serán objeto de evaluación durante una auditoría.
+
 
 ### Propósito de la Auditoría de TI
 ![Ilustración 3. Propósito de la Auditoría de TI](./imagenes/06_proposito_auditoria_ti.png)
