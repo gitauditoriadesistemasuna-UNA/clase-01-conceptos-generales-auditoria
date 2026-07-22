@@ -51,7 +51,7 @@ Desarrollemos una lluvia de ideas.
 
 La Auditoría de TI surge para evaluar si los riesgos tecnológicos están siendo gestionados mediante controles adecuados y para proporcionar recomendaciones independientes que contribuyan al logro de los objetivos de la organización.
 
-![Tabla 1. Algunos problemas que dan origen a una Auditoría de TI](./imagenes/02_problemas_auditoria_ti.png)
+
 
 *Tabla 1. Algunos problemas que dan origen a una Auditoría de TI.*
 
