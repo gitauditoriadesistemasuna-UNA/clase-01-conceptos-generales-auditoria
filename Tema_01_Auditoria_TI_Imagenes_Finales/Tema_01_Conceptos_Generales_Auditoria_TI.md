@@ -45,23 +45,7 @@ Desarrollemos una lluvia de ideas.
 La Auditoría de TI surge para evaluar si los riesgos tecnológicos están siendo gestionados mediante controles adecuados y para proporcionar recomendaciones independientes que contribuyan al logro de los objetivos de la organización.
 ![Tabla 1. Algunos problemas que dan origen a una Auditoría de TI](./imagenes/02_problemas_auditoria_ti.png)
 
-*Tabla 1. Algunos problemas que dan origen a una Auditoría de TI.*
-Problema
-Descripción
-🔒 Pérdida de información
-Eliminación accidental, corrupción o fuga de datos críticos.
-⚠️ Fraude
-Manipulación de información, accesos indebidos o uso inapropiado de los sistemas.
-🛡️ Ataques informáticos
-Malware, ransomware, phishing y otras amenazas que afectan la continuidad del negocio.
-📜 Incumplimiento normativo
-Incumplimiento de leyes, reglamentos, contratos y políticas internas.
-⚙️ Errores en los procesos
-Deficiencias en aplicaciones, configuraciones o procedimientos que afectan la operación.
-🌐 Interrupción de servicios
-Caídas de sistemas, indisponibilidad de aplicaciones o fallas en infraestructura tecnológica.
-💰 Inversiones tecnológicas sin resultados
-Proyectos que no cumplen los objetivos esperados o no generan el valor previsto.
+
 
 ### Definición de Auditoría de Tecnologías de Información
 **Definición:**
