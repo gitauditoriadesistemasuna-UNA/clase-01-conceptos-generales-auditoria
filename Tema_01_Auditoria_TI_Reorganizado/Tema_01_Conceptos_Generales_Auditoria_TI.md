@@ -109,11 +109,7 @@ La auditoría de Tecnologías de Información tiene como finalidad proporcionar 
 
 A lo largo del estudio de la auditoría de Tecnologías de Información se emplean conceptos que constituyen la base del lenguaje técnico utilizado por los auditores. Comprender con precisión estos términos facilita la interpretación de los marcos de referencia, las normas profesionales y la documentación de auditoría. El siguiente glosario reúne algunos de los conceptos fundamentales que se utilizarán de forma recurrente durante el desarrollo del curso.
 
-![Glosario de Auditoría de TI, parte 1](./imagenes/04_glosario_parte_1.png)
 
-*Ilustración 3. Glosario de Auditoría de TI, parte 1.*
-
-![Glosario de Auditoría de TI, parte 2](./imagenes/05_glosario_parte_2.png)
 
 *Ilustración 4. Glosario de Auditoría de TI, parte 2.*
 
